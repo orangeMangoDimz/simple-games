@@ -7,6 +7,6 @@ this is a simple tic tac toe game that I created using HTML, CSS, and Javascript
 - [ ] Win Score
 
 ## Screenshots
-![1](asset/image/../../tic-tac-toe/asset/image/screenshots/1.png)
-![1](asset/image/../../tic-tac-toe/asset/image/screenshots/2.png)
-![1](asset/image/../../tic-tac-toe/asset/image/screenshots/3.png)
+![1](tic-tac-toe/../asset/image/screenshots/1.png)
+![1](tic-tac-toe/../asset/image/screenshots/2.png)
+![1](tic-tac-toe/../asset/image/screenshots/3.png)
